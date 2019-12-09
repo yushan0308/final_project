@@ -11,4 +11,5 @@ This is my final project on Ghana
 ## Population of Ghana's districts
 
 ![](ghana_pop19_sub6.png)
+
 ![](ghana 3D rotation.gif)
