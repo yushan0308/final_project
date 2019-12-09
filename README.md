@@ -12,4 +12,4 @@ This is my final project on Ghana
 
 ![](ghana_pop19_sub6.png)
 
-![](_ghana 3D rotation.gif)
+![](3dgif.gif)
