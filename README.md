@@ -4,8 +4,9 @@ This is my final project on Ghana
 
 ## Administrative subdivision of Ghana
 ![](First.png)
+
 ## Population of Ghana's counties
-![](GHANA_Task11.png)
+![](Districts.png)
 
 
 ## Population of Ghana's districts
