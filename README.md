@@ -13,4 +13,4 @@ This is my final project on Ghana
 
 ![](Districts.png)
 
-  ![](3dgif.gif)
+   ![](3dgif.gif)
