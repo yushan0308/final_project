@@ -27,4 +27,6 @@ This is a picture indicating the log of population of Ghana's districts. Red par
    
 This is a 3 dimentional rotation gif of district population. The higher the 3D picture, the more people live in that area. It's comfirmed by 3D picture that population concentrates in southern regions.
    
+## Regression model of Ghana's population
 
+![](strechgoal.png)
