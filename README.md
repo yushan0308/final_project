@@ -51,7 +51,7 @@ From the regression model there are 5-7 points that are far above or beneath the
 
 ## Predicted population plot
 
-![](diff_means)
+![](diff_means.png)
 
 ![](3DDifferencePredictorsMeans.png)
 
