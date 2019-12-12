@@ -49,11 +49,12 @@ From the regression model there are 5-7 points that are far above or beneath the
 
 ![](kumasi_diff.png) 
 
-## Predicted population plot
+## Predicted population plot 
 
 ![](diff_means.png)
 
-![](3DDifferencePredictorsMeans.png)
+![](3DDifferencePredictorsMeans.PNG)
 
 Response variable is population and the predictors are mean of covariates
 
+![](ashanti_diff_means.png)
