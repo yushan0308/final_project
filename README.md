@@ -49,12 +49,16 @@ From the regression model there are 5-7 points that are far above or beneath the
 
 ![](kumasi_diff.png) 
 
-## Predicted population plot 
+## Predicted population plot of Ghana
 
 ![](diff_means.png)
 
 ![](3DDifferencePredictorsMeans.PNG)
 
-Response variable is population and the predictors are mean of covariates
+The most accurate result is produced by using population as response variable and mean of covariates as predictors
+
+## Predicted population of Ashanti
 
 ![](ashanti_diff_means.png)
+
+Also, use the same method to zoom in Ashanti region. The differences are mostly in Kumasi, the central city.
