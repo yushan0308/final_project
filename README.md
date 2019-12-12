@@ -33,6 +33,9 @@ This is a 3 dimentional rotation gif of district population. The higher the 3D p
 
 ![](Project2_pop15.png)
 
+Two density histograms of ntl(night time lights) and log of population.
+Two plots both indicate 1-2 regions have large population and they use more lights at night.
+
 ## Regression model of Ghana's population
 
 ![](stretchgoal.png)
