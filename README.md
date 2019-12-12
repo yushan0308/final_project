@@ -44,7 +44,16 @@ Two plots both indicate 1-2 regions have large population and they use more ligh
 
 I used the population of Ghana in 2015 and variable datasets like water, dst, topo, slope, and ntl(night time lights).
 From the regression model there are 5-7 points that are far above or beneath the curve. As expected, these points are mostly in Greater Accra or Ashanti.
-
+ 
 ## Difference plot
 
-![](kumasi_diff.png)
+![](kumasi_diff.png) 
+
+## Predicted population plot
+
+![](diff_means)
+
+![](3DDifferencePredictorsMeans.png)
+
+Response variable is population and the predictors are mean of covariates
+
