@@ -30,3 +30,6 @@ This is a 3 dimentional rotation gif of district population. The higher the 3D p
 ## Regression model of Ghana's population
 
 ![](stretchgoal.png)
+
+I used the population of Ghana in 2015 and variable datasets like water, dst, topo, slope, and ntl(night time lights).
+From the regression model there are 5-7 points that are far above or beneath the curve. As expected, these points are mostly in Greater Accra or Ashanti.
