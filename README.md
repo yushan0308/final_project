@@ -65,6 +65,6 @@ Also, use the same method to zoom in Ashanti region. The differences are mostly 
 
 ## Humansettlements, roads and health facilities
 
-![](roads!!hospitals!!.png)
+![](roads!hospitals!.png)
 
 ![](Pro3_3D.gif)
