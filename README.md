@@ -29,6 +29,7 @@ This is a 3 dimentional rotation gif of district population. The higher the 3D p
    
 ## Histograms 
 ![](project2_ntl.png)
+1[](Project2_density.png)
 ## Regression model of Ghana's population
 
 ![](stretchgoal.png)
