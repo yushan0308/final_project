@@ -62,3 +62,7 @@ The most accurate result is produced by using population as response variable an
 ![](ashanti_diff_means.png)
 
 Also, use the same method to zoom in Ashanti region. The differences are mostly in Kumasi, the central city.
+
+## Humansettlements, roads and health facilities
+
+
