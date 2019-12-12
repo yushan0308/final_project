@@ -19,10 +19,12 @@ This is a bar plot of regional population. Ashanti and Accra is two main regions
 
 ## Population of Ghana's districts
 
-This is a picture indicating the log of population of Ghana's districts. Red parts indicate the most populated areas as described before, Kumasi and Accra city. Purple regions represent comparatively less populated areas, like Upper West Region and Northern Region. Overall, the southern parts of Ghana are more populated than northern parts of Ghana.
-
 ![](Districts.png)
 
+This is a picture indicating the log of population of Ghana's districts. Red parts indicate the most populated areas as described before, Kumasi and Accra city. Purple regions represent comparatively less populated areas, like Upper West Region and Northern Region. Overall, the southern parts of Ghana are more populated than northern parts of Ghana.
+
+   ![](3dgif.gif)
+   
 This is a 3 dimentional rotation gif of district population. The higher the 3D picture, the more people live in that area. It's comfirmed by 3D picture that population concentrates in southern regions.
    
-   ![](3dgif.gif)
+
