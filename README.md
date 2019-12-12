@@ -71,35 +71,17 @@ The Eastern is right in the middle between Greater Accra and Ashanti. From the p
 ![](roads!hospitals!.png)
 
 ![](table.PNG)
-Total population:221,270
-9 urban areas(one really large:Nkawkaw)
-Two centers(where people live)
 
-One national road(red)
-Regional road(blue), other(purple)
-Intersections at regional centers
+Regional populatioin is 221,270, there are 9 urban areas.
 
-Three hospitals in two main urban areas
-Hospitals are accessible 
+There is one national road in red line connect from north-western part to the south-eastern part. This national road is also extending to Greater Accra and Ashanti. There are 5 regional roads in blue line and other roads in purple line. These roads have many intersections in or near regional centers like Nkawkaw. There are three hospitals in two main urban areas. Thanks to road connections, hospitals are accessible. One issue is the health facility type is too limited as there is no clinic. For people in urban areas, it is extremely conveninent if they need health care because hospitals are near regional centers. For people in rural areas, it's costly and time-consuming to travel to hospitals.
 
 ![](Pro3_3D.gif)
 
-Mountains around the region
-Urban areas are flat
-primary road avoids mountains
-reason:people live in flat areas
+Urban areas are on flat plain although there are mountains around the region.
+Almost all kinds of roads avoid mountainous areas where no one live.
 
-3D tells us why roads are not straight 
-And simple as we thought!
-(to connect other region to the center)
-Nkawkaw: the center on the road with
-hospitals
 
-Few hospitals for 200,000 people
-No other types of health facility
-Hospitals are near regional centers
 
-Roads contribute to the access to hospitals! 
-time-consuming
 
 
