@@ -70,7 +70,7 @@ The Eastern is right in the middle between Greater Accra and Ashanti. From the p
 
 ![](roads!hospitals!.png)
 
-![](table.png)
+![](table.PNG)
 Total population:221,270
 9 urban areas(one really large:Nkawkaw)
 Two centers(where people live)
