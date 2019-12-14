@@ -9,7 +9,7 @@ There are 10 political regions and 139 cities in Ghana. Across the national boun
 The two regions I selected are Ashanti region and Eastern. Ashanti, in the north-west direction of Greater Accra, is the most populated region in Ghana. Surrounded by other 4 regions, Ashanti is also center of southern Ghana. Among 21 subdivided cities in Ashanti, Kumasi
 is both the economic and geographic center. Eastern region is between the Greater Accra Region and Ashanti region. It has 17 cities, including Kwahu West and Atiwa.
 
-![](Second.png)
+![](Iguess.png)
 
 ## Population of Ghana's Regions
 
