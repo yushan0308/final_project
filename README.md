@@ -49,6 +49,8 @@ From the regression model there are 5-7 points that are far above or beneath the
 
 ![](kumasi_diff.png) 
 
+This is the Difference plot of Kumasi, the center of Ashanti Region. The result shows we overestimated the population in central parts and underestimated other areas.
+
 ## Predicted Population Plot of Ghana
 
 ![](diff_means.png)
