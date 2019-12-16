@@ -83,9 +83,7 @@ There is one national road in red line connecting from north-western part to the
 Urban areas are on a flat plain although there are mountains around the region.
 Almost all kinds of roads avoid mountainous areas where no one lives.
 
-## Overall findings
+## Human development Assessment
 
-
-
-
+The variety of roads and their intersections contributes to the convenience of traveling and access to hospitals, as well as the entire regional development. Within the region, people can easily travel to city centers and receive retreatments from hospitals there. However, there should be more improvements for people in rural area due to lack of clinics, which may lead to the risk of dying from emergencies. Overall, this region is a fairly developed place with adequate roadways for traveling and evenly distributed hospitals.
 
